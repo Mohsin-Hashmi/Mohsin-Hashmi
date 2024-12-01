@@ -27,3 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-hashmi&show_icons=true&locale=en" alt="mohsin-hashmi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-hashmi&" alt="mohsin-hashmi" /></p>
+
+
